@@ -103,4 +103,4 @@ We try to tackle issues as fast as possible, but help would be greatly appreciat
  - [Documentation](https://github.com/opsdroid/opsdroid/issues?q=is%3Aissue+is%3Aopen+label%3Adocumentation)
  - [Enhancements](https://github.com/opsdroid/opsdroid/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
  
- Don't forget, you can always help with the modules found on [opsdroid repository](https://github.com/opsdroid).
+ Feel free to also also help with the modules found on [opsdroid repository](https://github.com/opsdroid).
